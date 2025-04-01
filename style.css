@@ -9,6 +9,11 @@
     font-family: Arial, Helvetica, sans-serif;
 
 }
+p {
+    text-align: justify;
+    max-width: 800px;
+    margin: 0 auto;
+}
 
 :root{
     --bg-color:#1f242d;
